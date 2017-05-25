@@ -22,7 +22,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 7. [Labuda, Mateusz](https://github.com/mlabuda2/ti_2017). [Mapka](https://mlabuda2.github.io/ti_2017/googlemap), [GeoJSON](https://mlabuda2.github.io/ti_2017/geojson.html), [Responsively](https://mlabuda2.github.io/ti_2017/responsivesite.html)
 8. [Lejk, Krzysztof](https://github.com/kysioo/zadania) [cern](https://kysioo.github.io/cern) [tabela](https://kysioo.github.io/tabela) [rimages](https://kysioo.github.io/rimages)26.02 26.03
 9. [Lepieszkiewicz Bartosz](https://github.com/lepsztyk/my_gulp_101). [Mapa](https://lepsztyk.github.io/my_gulp/), [geoJSON](https://lepsztyk.github.io/geojson/)
-9. [Litkowski,Kamil](https://github.com/klitkowski/TI). [Mapa](https://klitkowski.github.io/TI/app/mapa.html) 26.02
+9. [Litkowski,Kamil](https://github.com/klitkowski/TI). [Mapa](https://klitkowski.github.io/TI/app/mapa.html), [Responsywne tabele](https://klitkowski.github.io/TI/responsywnosc/tab.html), [Responsywne obrazki](https://klitkowski.github.io/TI/responsywnosc/img.html) 26.02
 9. [Madej, Martin](https://github.com/Pes2009/Pes2009.github.io) 05.03 26.03
 10. [Nurzyński, Sebastian](https://github.com/ugkontzal/ugkontzal.github.io). [Mapa](https://ugkontzal.github.io/docs/cern.html). [Responsywna](https://ugkontzal.github.io/docs/respons.html)
 11. [Ruciński, Marek](https://github.com/marenty). [Strona z mapą](https://marenty.github.io/), [GeoJason](https://marenty.github.io/src/zad2.html), [Responsywność](https://marenty.github.io/src/zad3.html) 26.03
